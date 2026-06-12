@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ayush-2003.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ayush-2003.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ayush-verma-b64a05339/"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ayush2003sitapur@gmail.com"><img src="https://img.shields.io/badge/Email-4b0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Ayush-Verma34"><img src="https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -370,8 +370,8 @@ Open To:
     <img src="https://img.shields.io/badge/GitHub-Ayush--Verma34-4b0082?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://ayush-2003.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-ayush-2003.vercel.app-1a0533?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a0533" alt="Portfolio" />
+  <a href="https://ayush-2003.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-ayush-2003.netlify.app-1a0533?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a0533" alt="Portfolio" />
   </a>
 </p>
 

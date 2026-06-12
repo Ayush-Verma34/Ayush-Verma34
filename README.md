@@ -39,7 +39,7 @@
 <img align="right" src="https://img.shields.io/badge/CGPA-7.54-7c3aed?style=for-the-badge&labelColor=1a0533" alt="CGPA" />
 
 ```text
-🏗️  Full Stack Developer with production-level experience in React, Node.js, and Supabase
+🏗️  Full Stack Developer with hands on experience in React, Node.js
 🤖  AI / ML Enthusiast — integrating intelligent APIs into real-world applications
 🎯  Product-minded engineer focused on scalable architecture and clean UX
 🔬  IEEE Published Researcher with a passion for applied computer science

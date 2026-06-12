@@ -281,7 +281,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayush-Verma34&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayush-Verma34&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed" alt="GitHub Stats" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Verma34&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=a78bfa&sideNums=a78bfa&dates=8b5cf6" alt="GitHub Streak" />
   </a>
 </p>

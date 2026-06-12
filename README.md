@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Scalable+Full+Stack+Applications;Exploring+AI+%2F+ML+%26+Intelligent+Systems;Crafting+Production-Grade+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+Scalable+Full+Stack+Applications;Exploring+AI+%2F+ML+%26+Intelligent+Systems;Crafting+Production-Grade+Software+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ayush-verma-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ayush-verma34"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ayush-2003.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ayush-verma-b64a05339/"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ayush2003sitapur@gmail.com"><img src="https://img.shields.io/badge/Email-4b0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Ayush-Verma34"><img src="https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>

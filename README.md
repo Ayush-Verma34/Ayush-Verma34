@@ -333,6 +333,7 @@ Learning:
   - Advanced System Design & Scalable Architecture
   - Machine Learning & Deep Learning Fundamentals
   - Cloud-Native Development & Microservices
+  - Data Analytics and Visualisation
 
 Building:
   - AI-Integrated Full Stack Applications
@@ -341,14 +342,13 @@ Building:
 
 Exploring:
   - Large Language Models & Prompt Engineering
-  - Edge Computing & Serverless Architectures
-  - Real-Time Data Processing Pipelines
+  - Data Analytics and Visualisation
+  - AI Projects
 
 Open To:
   - Full-Time Software Engineering Roles
-  - AI / ML Engineering Opportunities
-  - Open Source Collaboration
-  - Research & Development Projects
+  - FUll Stack Developer Roles
+  - Frontend Developer Roles
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -360,7 +360,7 @@ Open To:
     <img src="https://img.shields.io/badge/Gmail-ayush2003sitapur@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ayush-verma34">
+  <a href="https://www.linkedin.com/in/ayush-verma-b64a05339/">
     <img src="https://img.shields.io/badge/LinkedIn-Ayush_Verma-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533" alt="LinkedIn" />
   </a>
 </p>
@@ -370,8 +370,8 @@ Open To:
     <img src="https://img.shields.io/badge/GitHub-Ayush--Verma34-4b0082?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://ayush-verma-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-ayush--verma.dev-1a0533?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a0533" alt="Portfolio" />
+  <a href="https://ayush-2003.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-ayush-2003.vercel.app-1a0533?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a0533" alt="Portfolio" />
   </a>
 </p>
 

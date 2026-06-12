@@ -317,7 +317,11 @@ From engineering **collaborative platforms** with real-time features to integrat
 ## 🐍 &nbsp;Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayush-Verma34/Ayush-Verma34/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-Verma34/Ayush-Verma34/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-Verma34/Ayush-Verma34/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Ayush-Verma34/Ayush-Verma34/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+  </picture>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

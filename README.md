@@ -173,13 +173,37 @@ From engineering **collaborative platforms** with real-time features to integrat
 <tr><td><b>Performance</b></td><td>AI-powered blog summarization — significantly reduced manual drafting time for users</td></tr>
 <tr><td><b>Security</b></td><td>Role-Based Access Control (RBAC) for distinct user permissions, content moderation capabilities</td></tr>
 <tr><td><b>Impact</b></td><td>Optimized asset delivery via Cloudinary, enhancing frontend performance and media handling</td></tr>
-<tr><td><b>Repository</b></td><td><a href="https://github.com/Ayush-Verma34/BlogoSphere">github.com/Ayush-Verma34/BlogoSphere</a></td></tr>
+<tr><td><b>Repository</b></td><td><a href="https://github.com/Ayush-Verma34/AI-Blog-Bogosphere">github.com/Ayush-Verma34/BlogoSphere</a></td></tr>
 </table>
 
 **Key Engineering Highlights:**
 - Leveraged Google Gemini API to automate blog summarization, significantly reducing manual drafting time for users
 - Integrated Cloudinary for automated image transformations and cloud storage, enhancing frontend performance
 - Implemented Role-Based Access Control (RBAC) to manage distinct user permissions, enabling secure administrative oversight and content moderation
+
+</details>
+
+<details>
+<summary><b>🧠 QuizAI — AI-Powered Quiz Generation Platform</b></summary>
+<br>
+
+> A premium full-stack, AI-powered quiz platform that leverages Google Gemini API to instantly generate customized quizzes on any topic — supporting multiple question types, difficulty levels, and real-time analytics.
+
+<table>
+<tr><td><b>Stack</b></td><td>React.js · Express.js · MongoDB · Tailwind CSS · Google Gemini API · Radix UI · Framer Motion</td></tr>
+<tr><td><b>Scale</b></td><td>Full-stack SaaS architecture with JWT auth, session management, and persistent quiz history</td></tr>
+<tr><td><b>Performance</b></td><td>Real-time quiz timers, paginated question navigation, and instant AI-generated explanations</td></tr>
+<tr><td><b>Security</b></td><td>JWT authentication with token refresh interceptors, protected API routes, bcrypt password hashing</td></tr>
+<tr><td><b>Impact</b></td><td>Enables instant quiz generation on any subject — MCQs, True/False, Short Answers with detailed analytics dashboard</td></tr>
+<tr><td><b>Repository</b></td><td><a href="https://github.com/Ayush-Verma34/QuizApp-Frontend">github.com/Ayush-Verma34/QuizApp-Frontend</a></td></tr>
+</table>
+
+**Key Engineering Highlights:**
+- Built end-to-end AI quiz pipeline using Google Gemini API with custom schema prompt validation for structured quiz generation
+- Engineered interactive quiz player with real-time timers, progress indicators, and paginated question navigation
+- Implemented comprehensive auth system with JWT access/refresh tokens, auto-login, and Axios interceptors for seamless session management
+- Designed premium glassmorphic UI with Radix UI primitives, Framer Motion animations, and system-matching dark/light theme toggle
+- Built detailed analytics dashboard with total quizzes taken, average scores, accuracy percentages, and filterable quiz history
 
 </details>
 
@@ -252,27 +276,6 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧩 &nbsp;Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/ayush_verma34">
-    <img src="https://img.shields.io/badge/LeetCode-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0533" height="35" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/ayush_verma34">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-6d28d9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0533" height="35" alt="GeeksforGeeks" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/ayush_verma34">
-    <img src="https://img.shields.io/badge/HackerRank-4b0082?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0533" height="35" alt="HackerRank" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/ayush_verma34">
-    <img src="https://img.shields.io/badge/CodeChef_⭐⭐-1a0533?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0533" height="35" alt="CodeChef" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 &nbsp;GitHub Analytics
 

@@ -95,7 +95,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 &nbsp;AI / ML Expertise
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"> &nbsp;AI / ML Expertise
 
 <table align="center">
 <thead>
@@ -136,7 +136,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏗️ &nbsp;Featured Projects
+## <img src="https://media.giphy.com/media/juua9i2c4fYrS/giphy.gif" width="28"> &nbsp;Featured Projects
 
 <details>
 <summary><b>🌾 AgriSangam — Agricultural Dataset Discovery & Collaboration Platform</b></summary>
@@ -209,7 +209,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 &nbsp;Experience
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"> &nbsp;Experience
 
 ### <img src="https://img.shields.io/badge/Full_Stack_Development_Intern-7c3aed?style=flat-square" /> &nbsp; DVertex Info Systems Pvt. Ltd.
 
@@ -230,7 +230,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 &nbsp;Achievements
+## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"> &nbsp;Achievements
 
 <table align="center">
 <thead>
@@ -257,7 +257,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📜 &nbsp;Certifications
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Certifications
 
 <table>
 <tr>
@@ -277,7 +277,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-## 📊 &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
@@ -294,7 +294,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏅 &nbsp;GitHub Trophies
+## <img src="https://media.giphy.com/media/kBZBlLVlfECvsBiOf4/giphy.gif" width="28"> &nbsp;GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
@@ -304,7 +304,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 &nbsp;Contribution Activity
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> &nbsp;Contribution Activity
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
@@ -314,7 +314,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 &nbsp;Contribution Snake
+## <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="28"> &nbsp;Contribution Snake
 
 <p align="center">
   <picture>
@@ -326,7 +326,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 &nbsp;Current Focus
+## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28"> &nbsp;Current Focus
 
 ```yaml
 Learning:
@@ -353,7 +353,7 @@ Open To:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 &nbsp;Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect With Me
 
 <p align="center">
   <a href="mailto:ayush2003sitapur@gmail.com">

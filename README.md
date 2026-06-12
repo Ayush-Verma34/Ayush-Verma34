@@ -298,7 +298,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Verma34&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=Ayush-Verma34&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </p>
 

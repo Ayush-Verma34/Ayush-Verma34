@@ -136,6 +136,47 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Development Expertise
+
+<table align="center">
+<thead>
+<tr>
+<th>Domain</th>
+<th>Proficiency</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Frontend Development</b></td>
+<td>⬛⬛⬛⬛⬛</td>
+<td>React.js, Tailwind CSS, Responsive UI, Framer Motion, Radix UI, Shadcn UI</td>
+</tr>
+<tr>
+<td><b>Backend Development</b></td>
+<td>⬛⬛⬛⬛⬜</td>
+<td>Node.js, Express.js, REST APIs, JWT Authentication, MVC Architecture</td>
+</tr>
+<tr>
+<td><b>Database & Storage</b></td>
+<td>⬛⬛⬛⬛⬜</td>
+<td>MongoDB, MySQL, Supabase, PostgreSQL, Cloudinary — schema design & optimization</td>
+</tr>
+<tr>
+<td><b>DevOps & Deployment</b></td>
+<td>⬛⬛⬛⬜⬜</td>
+<td>Git, GitHub Actions, Vercel, Netlify — CI/CD pipelines & cloud deployment</td>
+</tr>
+<tr>
+<td><b>Authentication & Security</b></td>
+<td>⬛⬛⬛⬛⬜</td>
+<td>OAuth 2.0, JWT access/refresh tokens, RBAC, bcrypt hashing, session management</td>
+</tr>
+</tbody>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;Featured Projects
 
 <details>

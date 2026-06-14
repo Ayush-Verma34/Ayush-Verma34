@@ -55,7 +55,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 > **Open To:** Full-Time SDE Roles · Full Stack Development · Frontend Roles · Open Source Collaboration · Research Opportunities
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=2" width="100%" width="100%">
+<img src="https://raw.githubusercontent.com/Ayush-Verma34/Ayush-Verma34/main/assets/green-line-animated.svg" width="100%">
 
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack

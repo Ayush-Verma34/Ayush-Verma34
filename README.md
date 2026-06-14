@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/github/stars/Ayush-Verma34?style=flat-square&color=065f46&labelColor=052e16&label=Stars" alt="Stars" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
@@ -58,7 +58,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 <table align="center">
 <tr>
@@ -95,7 +95,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"> &nbsp;AI / ML Expertise
@@ -137,7 +137,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 </tbody>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Development Expertise
@@ -179,7 +179,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 </tbody>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;Featured Projects
@@ -253,7 +253,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh4bTA4M3FjdnF2dGZmZWxmOWVnNzRtZXk4Ym9zaWZ6aHlncnI4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FcOAV63ctnhGJLeAhC/giphy.gif" width="28"> &nbsp;Experience
@@ -275,7 +275,7 @@ From engineering **collaborative platforms** with real-time features to integrat
   <img src="https://img.shields.io/badge/Product_Engineering-052e16?style=flat-square&logoColor=10b981" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dqYWJ1NWdyOTN3cGlzZHg3eTkyb2JjbWNuNHo2MjZndmkwaXA5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pFZyq1H4V8WHkr8JF0/giphy.gif" width="28"> &nbsp;Certifications
 
@@ -294,7 +294,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh6MmtyenV4YThodjZqemg3b2NpZm8yeHV4OTU5ZjhpYWNlN3k5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VaE5lsEk7s04GMM5AG/giphy.gif" width="28"> &nbsp;Achievements
@@ -322,7 +322,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 </tbody>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh2aHF2YWNreHdvNW5kd2Z4eWtibW5kMHpzdzdkcHI5YjNjcnFsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nDWTYlOLJr3ImZuCqW/giphy.gif" width="28"> &nbsp;GitHub Analytics
@@ -340,7 +340,7 @@ From engineering **collaborative platforms** with real-time features to integrat
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlwaXNhdmZuN3gxY2xnMmswcDJzbWZ2YjdwNTJhdHM0Y2NwMHd3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8FM8uSSg5ck0QJbExc/giphy.gif" width="28"> &nbsp;GitHub Trophies
 
@@ -350,7 +350,7 @@ From engineering **collaborative platforms** with real-time features to integrat
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Contribution Activity
 
@@ -360,7 +360,7 @@ From engineering **collaborative platforms** with real-time features to integrat
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 ## <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="28"> &nbsp;Contribution Snake
 
@@ -372,7 +372,7 @@ From engineering **collaborative platforms** with real-time features to integrat
   </picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BsdjE5NTA1bjk1MXZ1eDN5YnEzcWVwOGgzZDBnc2ZuNnM0N3R5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SaYPZtUmtxbYgbNTeH/giphy.gif" width="28"> &nbsp;Current Focus
 
@@ -399,7 +399,7 @@ Open To:
   - Frontend Developer Roles
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect With Me
 
@@ -423,7 +423,7 @@ Open To:
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:10b981,100:052e16&height=1" width="100%">
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b>

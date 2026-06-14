@@ -53,7 +53,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <br>
 
-> **Open To:** Full-Time SDE Roles · Full Stack Development · AI/ML Engineering · Open Source Collaboration · Research Opportunities
+> **Open To:** Full-Time SDE Roles · Full Stack Development · Frontend Roles · Open Source Collaboration · Research Opportunities
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -256,7 +256,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ2MW5iN25kMWhnOWJ5YmNtaTNmdjJjcnlrc3Q1ejN4OTd4MHEybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bu0dFukC1MT5hLqQ2U/giphy.gif" width="28"> &nbsp;Experience
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh4bTA4M3FjdnF2dGZmZWxmOWVnNzRtZXk4Ym9zaWZ6aHlncnI4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FcOAV63ctnhGJLeAhC/giphy.gif" width="28"> &nbsp;Experience
 
 ### <img src="https://img.shields.io/badge/Full_Stack_Development_Intern-10b981?style=flat-square" /> &nbsp; DVertex Info Systems Pvt. Ltd.
 
@@ -277,7 +277,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVyMnUxN2dwaTNtb2oxcXd4MGtiOGRvcGxndTBsNHpqN3FkN3A1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPndiGS5QfbtmHCdxd/giphy.gif" width="28"> &nbsp;Certifications
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dqYWJ1NWdyOTN3cGlzZHg3eTkyb2JjbWNuNHo2MjZndmkwaXA5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pFZyq1H4V8WHkr8JF0/giphy.gif" width="28"> &nbsp;Certifications
 
 <table>
 <tr>

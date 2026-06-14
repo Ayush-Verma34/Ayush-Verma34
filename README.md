@@ -297,7 +297,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"> &nbsp;Achievements
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh6MmtyenV4YThodjZqemg3b2NpZm8yeHV4OTU5ZjhpYWNlN3k5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VaE5lsEk7s04GMM5AG/giphy.gif" width="28"> &nbsp;Achievements
 
 <table align="center">
 <thead>
@@ -325,7 +325,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh2aHF2YWNreHdvNW5kd2Z4eWtibW5kMHpzdzdkcHI5YjNjcnFsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nDWTYlOLJr3ImZuCqW/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
@@ -342,7 +342,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="28"> &nbsp;GitHub Trophies
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlwaXNhdmZuN3gxY2xnMmswcDJzbWZ2YjdwNTJhdHM0Y2NwMHd3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8FM8uSSg5ck0QJbExc/giphy.gif" width="28"> &nbsp;GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
@@ -352,7 +352,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> &nbsp;Contribution Activity
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Contribution Activity
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
@@ -374,7 +374,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28"> &nbsp;Current Focus
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BsdjE5NTA1bjk1MXZ1eDN5YnEzcWVwOGgzZDBnc2ZuNnM0N3R5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SaYPZtUmtxbYgbNTeH/giphy.gif" width="28"> &nbsp;Current Focus
 
 ```yaml
 Learning:

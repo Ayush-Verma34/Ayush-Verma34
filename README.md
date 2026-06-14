@@ -34,6 +34,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
 <img align="right" src="https://img.shields.io/badge/CGPA-7.54-10b981?style=for-the-badge&labelColor=052e16" alt="CGPA" />
@@ -55,6 +56,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 > **Open To:** Full-Time SDE Roles · Full Stack Development · AI/ML Engineering · Open Source Collaboration · Research Opportunities
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
@@ -94,6 +96,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"> &nbsp;AI / ML Expertise
 
@@ -136,6 +139,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Development Expertise
 
 <table align="center">
@@ -176,6 +180,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;Featured Projects
 
@@ -250,6 +255,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ2MW5iN25kMWhnOWJ5YmNtaTNmdjJjcnlrc3Q1ejN4OTd4MHEybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bu0dFukC1MT5hLqQ2U/giphy.gif" width="28"> &nbsp;Experience
 
 ### <img src="https://img.shields.io/badge/Full_Stack_Development_Intern-10b981?style=flat-square" /> &nbsp; DVertex Info Systems Pvt. Ltd.
@@ -270,6 +276,26 @@ From engineering **collaborative platforms** with real-time features to integrat
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVyMnUxN2dwaTNtb2oxcXd4MGtiOGRvcGxndTBsNHpqN3FkN3A1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPndiGS5QfbtmHCdxd/giphy.gif" width="28"> &nbsp;Certifications
+
+<table>
+<tr>
+<td><b>Great Learning</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Full_Stack_Development_Course-10b981?style=for-the-badge&logo=udemy&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Infosys SpringBoard</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Java_Concepts-059669?style=for-the-badge&logo=java&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"> &nbsp;Achievements
 
@@ -294,25 +320,6 @@ From engineering **collaborative platforms** with real-time features to integrat
 <td>Led a team of 30+ members as Team Captain for 1 year, driving multiple tournament victories</td>
 </tr>
 </tbody>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA2MW42OW5uYnl4eDVnajV2OHdyMGV4bmVtZmVvNGkycGZ2NHZidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Y4m0jYS88fmv1Z5hy/giphy.gif" width="28"> &nbsp;Certifications
-
-<table>
-<tr>
-<td><b>Great Learning</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Full_Stack_Development_Course-10b981?style=for-the-badge&logo=udemy&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Infosys SpringBoard</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Java_Concepts-059669?style=for-the-badge&logo=java&logoColor=white" />
-</td>
-</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

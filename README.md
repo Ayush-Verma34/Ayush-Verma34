@@ -1,42 +1,42 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4b0082,100:7c3aed&height=220&section=header&text=Ayush%20Verma&fontSize=48&fontColor=e2d4f0&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&descSize=16&descColor=c4b5fd&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:065f46,100:10b981&height=220&section=header&text=Ayush%20Verma&fontSize=48&fontColor=d1fae5&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&descSize=16&descColor=6ee7b7&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+Scalable+Full+Stack+Applications;Exploring+AI+%2F+ML+%26+Intelligent+Systems;Crafting+Production-Grade+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+Scalable+Full+Stack+Applications;Exploring+AI+%2F+ML+%26+Intelligent+Systems;Crafting+Production-Grade+Software+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7c3aed?style=for-the-badge&labelColor=1a0533" alt="Degree" />
-  <img src="https://img.shields.io/badge/AKGEC-Ghaziabad%20%7C%202022--2026-6d28d9?style=for-the-badge&labelColor=1a0533" alt="University" />
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-10b981?style=for-the-badge&labelColor=052e16" alt="Degree" />
+  <img src="https://img.shields.io/badge/AKGEC-Ghaziabad%20%7C%202022--2026-059669?style=for-the-badge&labelColor=052e16" alt="University" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Noida,_Uttar_Pradesh-4b0082?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/📍_Noida,_Uttar_Pradesh-065f46?style=flat-square" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://ayush-2003.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ayush-verma-b64a05339/"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ayush2003sitapur@gmail.com"><img src="https://img.shields.io/badge/Email-4b0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Ayush-Verma34"><img src="https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://ayush-2003.netlify.app"><img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ayush-verma-b64a05339/"><img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayush2003sitapur@gmail.com"><img src="https://img.shields.io/badge/Email-065f46?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Ayush-Verma34"><img src="https://img.shields.io/badge/GitHub-052e16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush-Verma34&style=flat-square&color=7c3aed&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ayush-Verma34&style=flat-square&color=10b981&label=Profile+Views" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Ayush-Verma34?style=flat-square&color=6d28d9&labelColor=1a0533&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Ayush-Verma34?style=flat-square&color=059669&labelColor=052e16&label=Followers" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Ayush-Verma34?style=flat-square&color=4b0082&labelColor=1a0533&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/Ayush-Verma34?style=flat-square&color=065f46&labelColor=052e16&label=Stars" alt="Stars" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://img.shields.io/badge/CGPA-7.54-7c3aed?style=for-the-badge&labelColor=1a0533" alt="CGPA" />
+<img align="right" src="https://img.shields.io/badge/CGPA-7.54-10b981?style=for-the-badge&labelColor=052e16" alt="CGPA" />
 
 ```text
 🏗️  Full Stack Developer with hands on experience in React, Node.js
@@ -136,7 +136,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/juua9i2c4fYrS/giphy.gif" width="28"> &nbsp;Featured Projects
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;Featured Projects
 
 <details>
 <summary><b>🌾 AgriSangam — Agricultural Dataset Discovery & Collaboration Platform</b></summary>
@@ -209,11 +209,11 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"> &nbsp;Experience
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ2MW5iN25kMWhnOWJ5YmNtaTNmdjJjcnlrc3Q1ejN4OTd4MHEybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bu0dFukC1MT5hLqQ2U/giphy.gif" width="28"> &nbsp;Experience
 
-### <img src="https://img.shields.io/badge/Full_Stack_Development_Intern-7c3aed?style=flat-square" /> &nbsp; DVertex Info Systems Pvt. Ltd.
+### <img src="https://img.shields.io/badge/Full_Stack_Development_Intern-10b981?style=flat-square" /> &nbsp; DVertex Info Systems Pvt. Ltd.
 
-<img align="right" src="https://img.shields.io/badge/Jul_2025_--_Sep_2025-6d28d9?style=flat-square&labelColor=1a0533" />
+<img align="right" src="https://img.shields.io/badge/Jul_2025_--_Sep_2025-059669?style=flat-square&labelColor=052e16" />
 
 > Full Stack Development Intern working on the **Safai Mitra** product — contributing to enterprise-grade internal UI libraries and production feature development.
 
@@ -222,10 +222,10 @@ From engineering **collaborative platforms** with real-time features to integrat
 - Collaborated with the team to resolve **10+ UI bugs**, improving overall user experience across multiple production screens
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-1a0533?style=flat-square&logo=react&logoColor=7c3aed" />
-  <img src="https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=nodedotjs&logoColor=7c3aed" />
-  <img src="https://img.shields.io/badge/UI_Component_Library-1a0533?style=flat-square&logoColor=7c3aed" />
-  <img src="https://img.shields.io/badge/Product_Engineering-1a0533?style=flat-square&logoColor=7c3aed" />
+  <img src="https://img.shields.io/badge/React.js-052e16?style=flat-square&logo=react&logoColor=10b981" />
+  <img src="https://img.shields.io/badge/Node.js-052e16?style=flat-square&logo=nodedotjs&logoColor=10b981" />
+  <img src="https://img.shields.io/badge/UI_Component_Library-052e16?style=flat-square&logoColor=10b981" />
+  <img src="https://img.shields.io/badge/Product_Engineering-052e16?style=flat-square&logoColor=10b981" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -257,19 +257,19 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Certifications
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA2MW42OW5uYnl4eDVnajV2OHdyMGV4bmVtZmVvNGkycGZ2NHZidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Y4m0jYS88fmv1Z5hy/giphy.gif" width="28"> &nbsp;Certifications
 
 <table>
 <tr>
 <td><b>Great Learning</b></td>
 <td>
-  <img src="https://img.shields.io/badge/Full_Stack_Development_Course-7c3aed?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Development_Course-10b981?style=for-the-badge&logo=udemy&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><b>Infosys SpringBoard</b></td>
 <td>
-  <img src="https://img.shields.io/badge/Java_Concepts-6d28d9?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Concepts-059669?style=for-the-badge&logo=java&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -281,20 +281,20 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayush-Verma34&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Verma34&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=a78bfa&sideNums=a78bfa&dates=8b5cf6" alt="GitHub Streak" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayush-Verma34&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=6ee7b7&ring_color=10b981" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Verma34&theme=vue-dark&hide_border=true&background=0d1117&stroke=10b981&ring=34d399&fire=10b981&currStreakLabel=6ee7b7&sideLabels=6ee7b7&currStreakNum=34d399&sideNums=34d399&dates=059669" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Verma34&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8" alt="Top Languages" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Verma34&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=6ee7b7&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/kBZBlLVlfECvsBiOf4/giphy.gif" width="28"> &nbsp;GitHub Trophies
+## <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="28"> &nbsp;GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
@@ -308,7 +308,7 @@ From engineering **collaborative platforms** with real-time features to integrat
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Verma34&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4b0082&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Verma34&bg_color=0d1117&color=34d399&line=10b981&point=6ee7b7&area=true&area_color=065f46&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph" />
   </a>
 </p>
 
@@ -357,21 +357,21 @@ Open To:
 
 <p align="center">
   <a href="mailto:ayush2003sitapur@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ayush2003sitapur@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-ayush2003sitapur@gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=052e16" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ayush-verma-b64a05339/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush_Verma-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush_Verma-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=052e16" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ayush-Verma34">
-    <img src="https://img.shields.io/badge/GitHub-Ayush--Verma34-4b0082?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Ayush--Verma34-065f46?style=for-the-badge&logo=github&logoColor=white&labelColor=052e16" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://ayush-2003.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-ayush-2003.netlify.app-1a0533?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a0533" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-ayush--2003.netlify.app-052e16?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=052e16" alt="Portfolio" />
   </a>
 </p>
 
@@ -382,5 +382,5 @@ Open To:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4b0082,100:7c3aed&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:065f46,100:10b981&height=120&section=footer" width="100%" />
 </p>
